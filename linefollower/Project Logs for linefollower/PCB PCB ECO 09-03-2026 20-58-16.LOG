@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=IR-8
+Removed Pin From Net: NetName=VCC Pin=IR-9
+Removed Pin From Net: NetName=VCC Pin=STM-40
+Change Component Designator: OldDesignator=  NewDesignator=BT
+Added Pin To Net: NetName=GND Pin=IR-2
+Added Pin To Net: NetName=NetIR_1 Pin=IR-1
+Added Pin To Net: NetName=NetIR_1 Pin=STM-40
+Added Net: Name=NetIR_1
+Added Member To Class: ClassName=schematic Member=Component BT B2B-XH-AM(LF)(SN)
+Added Member To Class: ClassName=schematic Member=Component DRIVER ROB-14450
+Added Member To Class: ClassName=schematic Member=Component IR CES-109-01-G-S
+Added Member To Class: ClassName=schematic Member=Component LM TSW-102-12-T-S
+Added Member To Class: ClassName=schematic Member=Component RM TSW-102-12-T-S
+Added Member To Class: ClassName=schematic Member=Component S? MSS-102559-14A-D
+Added Member To Class: ClassName=schematic Member=Component STM ZC323000

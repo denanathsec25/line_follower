@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=* NewDesignator=STM32
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetIR_5
+Change Net Name : Old Net Name=Net*_9 New Net Name=NetIR_6
+Change Net Name : Old Net Name=Net*_10 New Net Name=NetIR_7
+Change Net Name : Old Net Name=Net*_11 New Net Name=NetIR_8
+Change Net Name : Old Net Name=Net*_12 New Net Name=NetIR_9
+Added Member To Class: ClassName=Schematic Member=Component STM32 STM32_BLUEPILL

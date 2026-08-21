@@ -1,0 +1,156 @@
+Added Component: Designator=BT(FP-B2B-XH-AM_LF_SN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=DRIVER(MODULE_ROB-14450)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ROB-14450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IR(FP-CES-109-01-G-S-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze, Gold, Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyester"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "22.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "PRODUCTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "333V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "9340057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Added Component: Designator=LM(FP-TSW-102-12-T-S-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=RM(FP-TSW-102-12-T-S-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=S?(SW_MSS-102559-14A-D)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MSS-102559-14A-D/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MSS-102559-14A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MSS-102559-14A-D/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=STM(MODULE_ZC323000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZC323000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT_1 Pin=BT-1
+Added Pin To Net: NetName=GND Pin=BT-2
+Added Pin To Net: NetName=VCC Pin=DRIVER-1
+Added Pin To Net: NetName=VCC Pin=DRIVER-2
+Added Pin To Net: NetName=GND Pin=DRIVER-3
+Added Pin To Net: NetName=NetDRIVER_4 Pin=DRIVER-4
+Added Pin To Net: NetName=NetDRIVER_5 Pin=DRIVER-5
+Added Pin To Net: NetName=NetDRIVER_6 Pin=DRIVER-6
+Added Pin To Net: NetName=NetDRIVER_7 Pin=DRIVER-7
+Added Pin To Net: NetName=GND Pin=DRIVER-8
+Added Pin To Net: NetName=GND Pin=DRIVER-9
+Added Pin To Net: NetName=NetDRIVER_10 Pin=DRIVER-10
+Added Pin To Net: NetName=NetDRIVER_11 Pin=DRIVER-11
+Added Pin To Net: NetName=NetDRIVER_12 Pin=DRIVER-12
+Added Pin To Net: NetName=NetDRIVER_13 Pin=DRIVER-13
+Added Pin To Net: NetName=NetDRIVER_14 Pin=DRIVER-14
+Added Pin To Net: NetName=NetDRIVER_15 Pin=DRIVER-15
+Added Pin To Net: NetName=NetDRIVER_16 Pin=DRIVER-16
+Added Pin To Net: NetName=NetIR_3 Pin=IR-3
+Added Pin To Net: NetName=NetIR_4 Pin=IR-4
+Added Pin To Net: NetName=NetIR_5 Pin=IR-5
+Added Pin To Net: NetName=NetIR_6 Pin=IR-6
+Added Pin To Net: NetName=NetIR_7 Pin=IR-7
+Added Pin To Net: NetName=GND Pin=IR-8
+Added Pin To Net: NetName=VCC Pin=IR-9
+Added Pin To Net: NetName=NetDRIVER_4 Pin=LM-1
+Added Pin To Net: NetName=NetDRIVER_5 Pin=LM-2
+Added Pin To Net: NetName=NetDRIVER_7 Pin=RM-1
+Added Pin To Net: NetName=NetDRIVER_6 Pin=RM-2
+Added Pin To Net: NetName=NetBT_1 Pin=S?-1
+Added Pin To Net: NetName=VCC Pin=S?-3
+Added Pin To Net: NetName=NetIR_7 Pin=STM-5
+Added Pin To Net: NetName=NetIR_6 Pin=STM-6
+Added Pin To Net: NetName=NetIR_5 Pin=STM-7
+Added Pin To Net: NetName=NetIR_4 Pin=STM-8
+Added Pin To Net: NetName=NetIR_3 Pin=STM-9
+Added Pin To Net: NetName=VCC Pin=STM-18
+Added Pin To Net: NetName=GND Pin=STM-19
+Added Pin To Net: NetName=GND Pin=STM-20
+Added Pin To Net: NetName=NetDRIVER_13 Pin=STM-21
+Added Pin To Net: NetName=NetDRIVER_16 Pin=STM-25
+Added Pin To Net: NetName=NetDRIVER_10 Pin=STM-26
+Added Pin To Net: NetName=NetDRIVER_14 Pin=STM-31
+Added Pin To Net: NetName=NetDRIVER_15 Pin=STM-32
+Added Pin To Net: NetName=NetDRIVER_12 Pin=STM-33
+Added Pin To Net: NetName=NetDRIVER_11 Pin=STM-34
+Added Pin To Net: NetName=GND Pin=STM-39
+Added Pin To Net: NetName=VCC Pin=STM-40
+Added Member To Class: ClassName=schematic Member=Component BT B2B-XH-AM(LF)(SN)
+Added Member To Class: ClassName=schematic Member=Component DRIVER ROB-14450
+Added Member To Class: ClassName=schematic Member=Component IR CES-109-01-G-S
+Added Member To Class: ClassName=schematic Member=Component LM TSW-102-12-T-S
+Added Member To Class: ClassName=schematic Member=Component RM TSW-102-12-T-S
+Added Member To Class: ClassName=schematic Member=Component S? MSS-102559-14A-D
+Added Member To Class: ClassName=schematic Member=Component STM ZC323000

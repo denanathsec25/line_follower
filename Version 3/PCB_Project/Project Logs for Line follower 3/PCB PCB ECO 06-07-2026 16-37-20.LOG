@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D3-2
+Removed Member From Class: ClassName=Schematic Member=D3
+Added Pin To Net: NetName=Net0.33_1 Pin=MD-MOTOR-3
+Change Net Name : Old Net Name=Net0.33_1 New Net Name=VBAT

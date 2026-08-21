@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=DRIVER-1
+Removed Pin From Net: NetName=NetC1_2 Pin=DRIVER-2
+Removed Pin From Net: NetName=GND Pin=DRIVER-3
+Removed Pin From Net: NetName=GND Pin=DRIVER-8
+Removed Pin From Net: NetName=GND Pin=DRIVER-9
+Removed Pin From Net: NetName=NetIR_7 Pin=STM-5
+Removed Pin From Net: NetName=NetIR_6 Pin=STM-6
+Removed Pin From Net: NetName=NetIR_5 Pin=STM-7
+Removed Pin From Net: NetName=NetIR_4 Pin=STM-8
+Removed Pin From Net: NetName=NetIR_3 Pin=STM-9
+Removed Pin From Net: NetName=NetC1_2 Pin=STM-18
+Removed Pin From Net: NetName=GND Pin=STM-19
+Removed Pin From Net: NetName=GND Pin=STM-20
+Removed Pin From Net: NetName=GND Pin=STM-39
+Removed Pin From Net: NetName=NetIR_1 Pin=STM-40
+Removed Member From Class: ClassName=schematic Member=DRIVER
+Removed Member From Class: ClassName=schematic Member=STM
+Added Component: Designator=U1(MODULE_ROB-14450)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ROB-14450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ROB-14450/SparkFun%20Electronics/view-part/2656367/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(MODULE_ZC323000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZC323000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetIR_7 Pin=U2-5
+Added Pin To Net: NetName=NetIR_6 Pin=U2-6
+Added Pin To Net: NetName=NetIR_5 Pin=U2-7
+Added Pin To Net: NetName=NetIR_4 Pin=U2-8
+Added Pin To Net: NetName=NetIR_3 Pin=U2-9
+Added Pin To Net: NetName=NetC1_2 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=NetIR_1 Pin=U2-40
+Added Pin To Net: NetName=NetLM_1 Pin=LM-1
+Added Pin To Net: NetName=NetLM_1 Pin=U1-4
+Added Net: Name=NetLM_1
+Added Pin To Net: NetName=NetLM_2 Pin=LM-2
+Added Pin To Net: NetName=NetLM_2 Pin=U1-5
+Added Net: Name=NetLM_2
+Added Pin To Net: NetName=NetRM_1 Pin=RM-1
+Added Pin To Net: NetName=NetRM_1 Pin=U1-7
+Added Net: Name=NetRM_1
+Added Pin To Net: NetName=NetRM_2 Pin=RM-2
+Added Pin To Net: NetName=NetRM_2 Pin=U1-6
+Added Net: Name=NetRM_2
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Pin To Net: NetName=NetU1_10 Pin=U2-26
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_11 Pin=U2-36
+Added Net: Name=NetU1_11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_12 Pin=U2-35
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U2-21
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-34
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U2-33
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_16 Pin=U2-25
+Added Net: Name=NetU1_16
+Added Member To Class: ClassName=schematic Member=Component U1 ROB-14450
+Added Member To Class: ClassName=schematic Member=Component U2 ZC323000

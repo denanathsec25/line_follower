@@ -1,0 +1,43 @@
+Added Component: Designator=*(STM32_Bluepill)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=INM2B Pin=*-13
+Added Pin To Net: NetName=INM2A Pin=*-14
+Added Pin To Net: NetName=INM1B Pin=*-15
+Added Pin To Net: NetName=INM1A Pin=*-16
+Added Pin To Net: NetName=+5 Pin=*-38
+Added Pin To Net: NetName=GND Pin=*-39
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=IR-9
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=IR-8
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=IR-7
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=IR-6
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=IR-5
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=IR-4
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=IR-3
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=RM-5
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_26 Pin=RM-6
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=LM-5
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=Net*_35 Pin=*-35
+Added Pin To Net: NetName=Net*_35 Pin=LM-6
+Added Net: Name=Net*_35
+Added Member To Class: ClassName=Schematic Member=Component * STM32_BLUEPILL

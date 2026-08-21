@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetIR_5 Pin=STM32-8
+Removed Pin From Net: NetName=NetIR_7 Pin=STM32-10
+Removed Pin From Net: NetName=NetIR_8 Pin=STM32-11
+Removed Pin From Net: NetName=NetIR_9 Pin=STM32-12
+Added Pin To Net: NetName=NetIR_9 Pin=STM32-6
+Added Pin To Net: NetName=NetIR_8 Pin=STM32-7
+Added Pin To Net: NetName=NetIR_7 Pin=STM32-8
+Added Pin To Net: NetName=NetIR_5 Pin=STM32-10
+Added Pin To Net: NetName=NetIR_3 Pin=IR-3
+Added Pin To Net: NetName=NetIR_3 Pin=STM32-12
+Added Net: Name=NetIR_3
+Added Pin To Net: NetName=NetIR_4 Pin=IR-4
+Added Pin To Net: NetName=NetIR_4 Pin=STM32-11
+Added Net: Name=NetIR_4

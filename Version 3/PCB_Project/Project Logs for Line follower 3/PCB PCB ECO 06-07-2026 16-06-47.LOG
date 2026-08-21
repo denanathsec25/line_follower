@@ -1,0 +1,3 @@
+Added Component: Designator=*(MDD3A_MODULE)
+Added Member To Class: ClassName=Schematic Member=Component * MDD3A_MODULE
+Added Member To Class: ClassName=Schematic Member=Component * STM32_BLUEPILL

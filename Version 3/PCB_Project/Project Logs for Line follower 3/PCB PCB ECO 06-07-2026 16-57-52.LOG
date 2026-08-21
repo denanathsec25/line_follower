@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EM1B Pin=STM32-17
+Removed Pin From Net: NetName=EM1A Pin=STM32-18
+Added Pin To Net: NetName=EM1B Pin=STM32-15
+Added Pin To Net: NetName=EM1A Pin=STM32-16

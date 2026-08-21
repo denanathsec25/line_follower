@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EM2B Pin=*-34
+Removed Pin From Net: NetName=EM2A Pin=*-35
+Added Pin To Net: NetName=EM2A Pin=*-34
+Added Pin To Net: NetName=EM2B Pin=*-35

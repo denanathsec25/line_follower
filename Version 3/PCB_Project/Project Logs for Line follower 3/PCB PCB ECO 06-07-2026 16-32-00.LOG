@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=INM2B Pin=STM32-13
+Removed Pin From Net: NetName=INM2A Pin=STM32-14
+Removed Pin From Net: NetName=INM1B Pin=STM32-15
+Removed Pin From Net: NetName=INM1A Pin=STM32-16
+Removed Pin From Net: NetName=EM2B Pin=STM32-25
+Removed Pin From Net: NetName=EM2A Pin=STM32-26
+Added Pin To Net: NetName=INM2B Pin=STM32-25
+Added Pin To Net: NetName=INM2A Pin=STM32-26
+Added Pin To Net: NetName=INM1B Pin=STM32-27
+Added Pin To Net: NetName=INM1A Pin=STM32-28
+Added Pin To Net: NetName=EM2B Pin=STM32-34
+Added Pin To Net: NetName=EM2A Pin=STM32-35
+Added Member To Class: ClassName=Schematic Member=Component * MDD3A_MODULE

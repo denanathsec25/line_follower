@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCC Pin=STM-18
+Removed Pin From Net: NetName=NetDRIVER_13 Pin=STM-21
+Added Component: Designator=C1(FP-UHW1E222MHD-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2mF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "15mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.197inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "10000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "3.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "HW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=NetDRIVER_13 Pin=IR-1
+Added Pin To Net: NetName=NetDRIVER_13 Pin=STM-40
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=STM-18
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=schematic Member=Component C1

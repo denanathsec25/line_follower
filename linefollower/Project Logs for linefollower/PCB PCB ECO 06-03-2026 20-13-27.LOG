@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J? NewDesignator=BT
+Add component: Footprint Not Found SW_MINI-SPDT-SW
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Class Member: Failed to add class member : Component S1 MINI-SPDT-SW

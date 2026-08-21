@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetDRIVER_12 Pin=STM-33
+Removed Pin From Net: NetName=NetDRIVER_11 Pin=STM-34
+Removed Pin From Net: NetName=NetDRIVER_14 Pin=STM-35
+Removed Pin From Net: NetName=NetDRIVER_15 Pin=STM-36
+Added Pin To Net: NetName=NetDRIVER_14 Pin=STM-33
+Added Pin To Net: NetName=NetDRIVER_15 Pin=STM-34
+Added Pin To Net: NetName=NetDRIVER_12 Pin=STM-35
+Added Pin To Net: NetName=NetDRIVER_11 Pin=STM-36

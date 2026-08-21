@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=SW NewDesignator=SW?
+Added Pin To Net: NetName=EM1A Pin=*-26
+Added Pin To Net: NetName=EM1A Pin=LM-5
+Added Net: Name=EM1A
+Added Pin To Net: NetName=EM1B Pin=*-25
+Added Pin To Net: NetName=EM1B Pin=LM-6
+Added Net: Name=EM1B
+Added Pin To Net: NetName=EM2A Pin=*-35
+Added Pin To Net: NetName=EM2A Pin=RM-5
+Added Net: Name=EM2A
+Added Pin To Net: NetName=EM2B Pin=*-34
+Added Pin To Net: NetName=EM2B Pin=RM-6
+Added Net: Name=EM2B

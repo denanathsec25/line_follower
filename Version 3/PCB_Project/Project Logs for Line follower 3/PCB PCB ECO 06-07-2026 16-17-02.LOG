@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=EM2A Pin=*-25
+Removed Pin From Net: NetName=EM2B Pin=*-26
+Removed Pin From Net: NetName=EM1B Pin=*-34
+Removed Pin From Net: NetName=EM1A Pin=*-35
+Added Pin To Net: NetName=EM1B Pin=*-17
+Added Pin To Net: NetName=EM1A Pin=*-18
+Added Pin To Net: NetName=EM2B Pin=*-25
+Added Pin To Net: NetName=EM2A Pin=*-26
+Added Member To Class: ClassName=Schematic Member=Component * STM32_BLUEPILL

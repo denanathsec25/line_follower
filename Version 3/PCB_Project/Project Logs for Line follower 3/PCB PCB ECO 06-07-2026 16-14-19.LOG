@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Net*_12 Pin=IR-3
+Removed Pin From Net: NetName=Net*_11 Pin=IR-4
+Removed Pin From Net: NetName=Net*_10 Pin=IR-5
+Removed Pin From Net: NetName=Net*_8 Pin=IR-7
+Added Pin To Net: NetName=Net*_8 Pin=IR-5
+Added Pin To Net: NetName=Net*_10 Pin=IR-7
+Added Pin To Net: NetName=Net*_11 Pin=IR-8
+Added Pin To Net: NetName=Net*_12 Pin=IR-9
+Added Pin To Net: NetName=AN Pin=*-6
+Added Pin To Net: NetName=AN Pin=IR-3
+Added Net: Name=AN
+Added Pin To Net: NetName=CAL Pin=*-7
+Added Pin To Net: NetName=CAL Pin=IR-4
+Added Net: Name=CAL
+Added Member To Class: ClassName=Schematic Member=Component * STM32_BLUEPILL
